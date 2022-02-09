@@ -18,8 +18,8 @@
               "properties": {
                 "ariaRegion": {
                   "type": "string",
-                  "title": "ARIA region",
-                  "default": "Assessment results.",
+                  "title": "Region ARIA",
+                  "default": "Wyniki oceny.",
                   "_adapt": {
                     "translatable": true
                   }
